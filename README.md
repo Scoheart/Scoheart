@@ -1,9 +1,11 @@
-# 🙋‍♂️ Hi there !
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, there !</h1>
+
 ## I’m Scoheart
 - 🌱 A student studying at a University in China.
-- 💞️ I’m interested in Front-end and FEED.
-- 📫 Anyone is welcome to teach me.
-- 🤝 Follow me.
+- ❤️ I’m interested in Front-end and FEED.
+- 👀 I love to explore and learn about new things.
+- 🤝 I'm looking to collborate on opensource project.
+- ⬇️ Connect with me.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Scoheart?style=social)](https://twitter.com/ScoheartT)
 [![Github Follow](https://img.shields.io/github/followers/Scoheart?style=social)](https://github.com/Scoheart)
