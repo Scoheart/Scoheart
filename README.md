@@ -41,13 +41,14 @@
 ![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat&logo=NestJS&logoWidth=20)
 ![JSON](https://img.shields.io/badge/-JSON-black?style=flat&logo=JSON&logoWidth=20)
 ![Axios](https://img.shields.io/badge/-Axios-black?style=flat&logo=Axios&logoWidth=20)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=Postman&logoWidth=20)
+
 ### Back-end
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java&logoWidth=20)
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat&logo=Spring&logoWidth=20)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=flat&logo=SpringBoot&logoWidth=20)
 ![C](https://img.shields.io/badge/-C-black?style=flat&logo=c&logoWidth=20)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus&logoWidth=20)
+
 ### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&logoWidth=20)
 ![MySQL](https://img.shields.io/badge/-MicrosoftSQLServer-black?style=flat&logo=MicrosoftSQLServer&logoWidth=20)
@@ -66,12 +67,16 @@
 ![Alibaba Cloud](https://img.shields.io/badge/-AlibabaCloud-black?style=flat&logo=AlibabaCloud&logoWidth=20)
 
 ### Tools
+![JetBrains](https://img.shields.io/badge/-JetBrains-black?style=flat&logo=JetBrains&logoWidth=20)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDEA-black?style=flat&logo=IntelliJIDEA&logoWidth=20)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat&logo=WebStorm&logoWidth=20)
+![CLion](https://img.shields.io/badge/-CLion-black?style=flat&logo=CLion&logoWidth=20)
+![Visual Studio](https://img.shields.io/badge/-VisualStudio-black?style=flat&logo=VisualStudio&logoWidth=20)
+![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-black?style=flat&logo=VisualStudioCode&logoWidth=20)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=Postman&logoWidth=20)
 ![iTerm2](https://img.shields.io/badge/-iTerm2-black?style=flat&logo=iTerm2&logoWidth=20)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-black?style=flat&logo=Obsidian&logoWidth=20)
-![Telegram](https://img.shields.io/badge/-Telegram-black?style=flat&logo=Telegram&logoWidth=20)
-
+![Notion](https://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&logoWidth=20)
 
 ## 🔖 Github Stats
 [![Scoheart's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scoheart&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
