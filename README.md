@@ -1,3 +1,4 @@
+# 🙋‍♂️ Hi there !
 - 👋 Hi, I’m @Scoheart
 - 👀 I’m interested in 
 - 🌱 I’m currently learning ...
