@@ -74,6 +74,7 @@
 ![Visual Studio](https://img.shields.io/badge/-VisualStudio-black?style=flat&logo=VisualStudio&logoWidth=20)
 ![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-black?style=flat&logo=VisualStudioCode&logoWidth=20)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=Postman&logoWidth=20)
+![RStudio](https://img.shields.io/badge/-RStudio-black?style=flat&logo=RStudio&logoWidth=20)
 ![iTerm2](https://img.shields.io/badge/-iTerm2-black?style=flat&logo=iTerm2&logoWidth=20)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-black?style=flat&logo=Obsidian&logoWidth=20)
 ![Notion](https://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&logoWidth=20)
