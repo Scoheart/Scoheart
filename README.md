@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, there !</h1>
 
-## I’m Scoheart
+## 👨‍💻 I’m Scoheart
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scoheart&layout=compact&theme=dark" />
 </a>
@@ -14,8 +14,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Scoheart?style=social)](https://twitter.com/ScoheartT)
 [![Github Follow](https://img.shields.io/github/followers/Scoheart?style=social)](https://github.com/Scoheart)
 [![Reddit Follow](https://img.shields.io/reddit/user-karma/combined/Scoheart?style=social)](https://www.reddit.com/user/Scoheart)
+[![Youtube Follow](https://img.shields.io/youtube/channel/subscribers/UCaT_T97s_f6sUypCI5ln0rg?style=social)](https://www.youtube.com/channel/UCaT_T97s_f6sUypCI5ln0rg)
 
-## Tech Stack
+## 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -24,7 +25,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-## Github Stats
+## 🔖 Github Stats
 [![Scoheart's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scoheart&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
