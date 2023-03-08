@@ -9,7 +9,7 @@
 <div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scoheart)](https://github.com/anuraghazra/github-readme-stats)
 <div>
-  
+  ![Twitter Follow](https://img.shields.io/twitter/follow/Scoheart?style=social)
  ![Twitter URL](https://img.shields.io/twitter/url?style=social)
 <!---
 Scoheart/Scoheart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
