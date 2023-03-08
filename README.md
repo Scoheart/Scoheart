@@ -3,8 +3,8 @@
 - 🌱 A student studying at a University in China.
 - 💞️ I’m interested in Front-end and FEED.
 - 📫 Anyone is welcome to teach me.
+- 🤝 Follow me.
 
-## Follow Me
 [![Twitter Follow](https://img.shields.io/twitter/follow/Scoheart?style=social)](https://twitter.com/ScoheartT)
 [![Github Follow](https://img.shields.io/github/followers/Scoheart?style=social)](https://github.com/Scoheart)
 [![Reddit Follow](https://img.shields.io/reddit/user-karma/combined/Scoheart?style=social)](https://www.reddit.com/user/Scoheart)
