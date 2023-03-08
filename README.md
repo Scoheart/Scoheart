@@ -9,7 +9,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scoheart)](https://github.com/anuraghazra/github-readme-stats)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/Scoheart?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/Scoheart?style=social)(https://github.com/FernandoRoldan93)
 
 ![Twitter URL](https://img.shields.io/twitter/url?style=social)
 <!---
