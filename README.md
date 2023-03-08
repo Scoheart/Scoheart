@@ -1,6 +1,10 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, there !</h1>
 
 ## I’m Scoheart
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scoheart&layout=compact&theme=dark" />
+</a>
+
 - 🌱 A student studying at a University in China.
 - ❤️ I’m interested in Front-end and FEED.
 - 👀 I love to explore and learn about new things.
@@ -18,8 +22,6 @@
 - ✏️ Adobe PS｜AI
 
 ## Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scoheart&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Scoheart's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scoheart&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
