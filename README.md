@@ -18,7 +18,9 @@
 - ✏️ Adobe PS｜AI
 
 ## Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scoheart)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scoheart&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Scoheart's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scoheart&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Scoheart/Scoheart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
