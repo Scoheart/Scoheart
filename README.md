@@ -54,15 +54,15 @@
 
 ### Git
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=Git&logoWidth=20)
+![Gitee](https://img.shields.io/badge/-Gitee-black?style=flat&logo=Gitee&logoWidth=20)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoWidth=20)
 ![GitHub Pages](https://img.shields.io/badge/-GitHubPages-black?style=flat&logo=GitHubPages&logoWidth=20)
-![Gitee](https://img.shields.io/badge/-Gitee-black?style=flat&logo=Gitee&logoWidth=20)
+![Github Actions](https://img.shields.io/badge/-GithubActions-black?style=flat&logo=GithubActions&logoWidth=20)
 
 ### Linux
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=Linux&logoWidth=20)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat&logo=Ubuntu&logoWidth=20)
 ![CentOS](https://img.shields.io/badge/-CentOS-black?style=flat&logo=CentOS&logoWidth=20)
-![Github Actions](https://img.shields.io/badge/-GithubActions-black?style=flat&logo=GithubActions&logoWidth=20)
 ![Alibaba Cloud](https://img.shields.io/badge/-AlibabaCloud-black?style=flat&logo=AlibabaCloud&logoWidth=20)
 
 ### Tools
