@@ -31,6 +31,7 @@
 ![pnpm](https://img.shields.io/badge/-pnpm-black?style=flat&logo=pnpm&logoWidth=20)
 ![Yarn](https://img.shields.io/badge/-Yarn-black?style=flat&logo=Yarn&logoWidth=20)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&logoWidth=20)
+![React](https://img.shields.io/badge/-Redux-black?style=flat&logo=redux&logoWidth=20)
 ![Vue](https://img.shields.io/badge/-Vue-black?style=flat&logo=vue.js&logoWidth=20)
 ![Babel](https://img.shields.io/badge/-Babel-black?style=flat&logo=Babel&logoWidth=20)
 ![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat&logo=Prettier&logoWidth=20)
