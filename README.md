@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, there !</h1>
 
 ![](https://komarev.com/ghpvc/?username=scoheart&style=for-the-badge&color=lightgrey)
-
+[![wakatime](https://wakatime.com/badge/user/8c7be721-184d-4d9e-96c3-b1bab7e0f59f.svg)](https://wakatime.com/@8c7be721-184d-4d9e-96c3-b1bab7e0f59f)
 ## 👨‍💻 I’m Scoheart
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scoheart&layout=compact&theme=dark" />
@@ -90,6 +90,11 @@
 </div>
 
 ⭐ From [scoheart](https://github.com/scoheart)
+
+<div>
+<figure><embed src="https://wakatime.com/share/@8c7be721-184d-4d9e-96c3-b1bab7e0f59f/3cb0d006-1cd1-458e-8bdf-63d4e0074a0b.svg"></embed></figure>
+</div>
+
 <!---
 Scoheart/Scoheart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
