@@ -13,6 +13,12 @@
 - 🤝 I'm looking to collborate on opensource project.
 - ⬇️ Connect with me.
 
+## 🔖 Github Stats
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Scoheart&show_icons=true&theme=dark" alt="Scoheart's GitHub stats">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=scoheart&range=all_time&layout=compact" alt="willianrod's wakatime stats">
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/Scoheart?style=social)](https://twitter.com/ScoheartT)
 [![Github Follow](https://img.shields.io/github/followers/Scoheart?style=social)](https://github.com/Scoheart)
 [![Reddit Follow](https://img.shields.io/reddit/user-karma/combined/Scoheart?style=social)](https://www.reddit.com/user/Scoheart)
@@ -79,12 +85,6 @@
 ![iTerm2](https://img.shields.io/badge/-iTerm2-black?style=flat&logo=iTerm2&logoWidth=20)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-black?style=flat&logo=Obsidian&logoWidth=20)
 ![Notion](https://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&logoWidth=20)
-
-## 🔖 Github Stats
-[![Scoheart's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scoheart&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=scoheart&range=all_time&layout=compact)
-
 
 <div align="center">
   
