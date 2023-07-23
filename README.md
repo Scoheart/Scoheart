@@ -20,9 +20,10 @@
 
 ## 🔖 Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Scoheart&show_icons=true&theme=dark" alt="Scoheart's GitHub stats">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=scoheart&range=all_time&layout=compact" alt="willianrod's wakatime stats">
+<div>
+<img style="width: 450px; height:300px" src="https://github-readme-stats.vercel.app/api/wakatime?username=scoheart&range=all_time&layout=compact" alt="willianrod's wakatime stats">
+<img style="width: 450px; height:300px" src="https://github-readme-stats.vercel.app/api?username=Scoheart&show_icons=true&theme=dark" alt="Scoheart's GitHub stats">
+</div>
 
 ## 🛠️ Tech Stack
 ### Front-end
