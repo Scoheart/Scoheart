@@ -15,7 +15,7 @@
 
 ## 🔖 Github Stats
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Scoheart&show_icons=true&theme=dark" alt="Scoheart's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Scoheart&show_icons=true&theme=dark" alt="Scoheart's GitHub stats">
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=scoheart&range=all_time&layout=compact" alt="willianrod's wakatime stats">
 
