@@ -13,16 +13,16 @@
 - 🤝 I'm looking to collborate on opensource project.
 - ⬇️ Connect with me.
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/Scoheart?style=social)](https://twitter.com/ScoheartT)
+[![Github Follow](https://img.shields.io/github/followers/Scoheart?style=social)](https://github.com/Scoheart)
+[![Reddit Follow](https://img.shields.io/reddit/user-karma/combined/Scoheart?style=social)](https://www.reddit.com/user/Scoheart)
+[![Youtube Follow](https://img.shields.io/youtube/channel/subscribers/UCaT_T97s_f6sUypCI5ln0rg?style=social)](https://www.youtube.com/channel/UCaT_T97s_f6sUypCI5ln0rg)
+
 ## 🔖 Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Scoheart&show_icons=true&theme=dark" alt="Scoheart's GitHub stats">
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=scoheart&range=all_time&layout=compact" alt="willianrod's wakatime stats">
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/Scoheart?style=social)](https://twitter.com/ScoheartT)
-[![Github Follow](https://img.shields.io/github/followers/Scoheart?style=social)](https://github.com/Scoheart)
-[![Reddit Follow](https://img.shields.io/reddit/user-karma/combined/Scoheart?style=social)](https://www.reddit.com/user/Scoheart)
-[![Youtube Follow](https://img.shields.io/youtube/channel/subscribers/UCaT_T97s_f6sUypCI5ln0rg?style=social)](https://www.youtube.com/channel/UCaT_T97s_f6sUypCI5ln0rg)
 
 ## 🛠️ Tech Stack
 ### Front-end
