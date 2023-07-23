@@ -83,6 +83,9 @@
 ## 🔖 Github Stats
 [![Scoheart's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scoheart&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=scoheart&range=all_time&layout=compact)
+
+
 <div align="center">
   
 ### Show some ❤️ by starring some of the repositories!
