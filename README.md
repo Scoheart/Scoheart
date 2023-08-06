@@ -10,7 +10,7 @@
 - 🌱 A student studying at a University in China.
 - ❤️ I’m interested in Front-end and FEED.
 - 👀 I love to explore and learn about new things.
-- 🤝 I'm looking to collborate on opensource project.
+- 🤝 I'm looking to collaborate on opensource project.
 - ⬇️ Connect with me.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Scoheart?style=social)](https://twitter.com/ScoheartT)
