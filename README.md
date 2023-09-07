@@ -3,9 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=scoheart&style=for-the-badge&color=lightgrey)
 [![wakatime](https://wakatime.com/badge/user/8c7be721-184d-4d9e-96c3-b1bab7e0f59f.svg)](https://wakatime.com/@8c7be721-184d-4d9e-96c3-b1bab7e0f59f)
 ## 👨‍💻 I’m Scoheart
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scoheart&layout=compact&theme=dark" />
-</a>
+
 
 - 🌱 A student studying at a University in China.
 - ❤️ I’m interested in Front-end and FEED.
